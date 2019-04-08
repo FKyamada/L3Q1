@@ -1,0 +1,7 @@
+﻿  No.cpp
+  Pilha.cpp
+  Teste.cpp
+e:\3°sem\estrutura de dados\lista 3\l3q1\l3q1\teste.cpp(3): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Gerando Código...
+e:\3°sem\estrutura de dados\lista 3\l3q1\l3q1\pilha.cpp(67): warning C4715: 'Pilha::pop': nem todos os caminhos de controle retornam um valor
+  L3Q1.vcxproj -> E:\3°SEM\Estrutura de Dados\LISTA 3\L3Q1\Debug\L3Q1.exe
